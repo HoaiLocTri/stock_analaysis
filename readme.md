@@ -4,4 +4,4 @@ The project focuses on exploring the application of Apache Kafka for real-time d
 
 # Demo
 
-![alt text](https://https://github.com/HoaiLocTri/stock_analaysis/blob/main/img/Demo.png?raw=true)
+![Demo image](https://github.com/HoaiLocTri/stock_analaysis/blob/main/img/Demo.png)
